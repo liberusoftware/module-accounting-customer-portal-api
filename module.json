@@ -3,7 +3,7 @@
   "name": "accounting-customer-portal-api",
   "display_name": "Accounting Customer Portal API",
   "description": "HTTP API for customer portal records.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "presentation",
   "provider": "Liberu\\Accounting\\CustomerPortalApi\\CustomerPortalApiServiceProvider",
   "requires": {
